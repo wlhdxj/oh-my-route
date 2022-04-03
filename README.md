@@ -15,7 +15,6 @@
 * 点击 `Star` 触发 `workflow`，任务会自动执行，运行进度和结果可以在 `Actions` 页面查看
 * 当任务运行完成时，会将运行结果和错误信息打包到 `Artifacts`，可自行下载查看
 
-
 ## 获取京东cookie
 
 * 使用项目中的Chrome插件：`JDCookie`
@@ -24,6 +23,7 @@
 * 登录 [领京豆](https://bean.m.jd.com/)；
 * 点击`JDCookie`即可拷贝京东cookie
 * 需要注意的是，cookie`每15天过期一次`，也就是每15天就需要重新获取cookie，设置到`Secrets`中
+
 
 ## 获取Server酱SCKEY
 
